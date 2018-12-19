@@ -11,7 +11,7 @@ public class InicioController {
 
     @RequestMapping("/")
     public String inicio(){
-        return "Olá Mundo";
+        return "inicio";
     }
 
 }
